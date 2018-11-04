@@ -14,7 +14,7 @@ Add the NPM package to your project by running ```npm i console-frame-print```.
 ## Usage
 To make use of the FramePrint function, import the function to your file by binding it to a variable after installation: 
 * *Using ES5:*   
-```const framePrint = require('console-frame-print);```
+```const framePrint = require('console-frame-print');```
 
 ## Author
->**Drowsy Dev**
+>**DrowsyDev**
