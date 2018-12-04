@@ -28,6 +28,7 @@
 
 
 
+
 // console.dir(Object.keys(exports));
 // cli();
 /*
@@ -53,7 +54,6 @@ function framePrint(msg, log = false) {
   // Interpolate the msg and frame
   return log ? console.log(print) : print;
 }
-// Export the function
-// module.exports = framePrint;
+
 module.exports = framePrint;
-require('../cli-run');
+require("../cli-run");
